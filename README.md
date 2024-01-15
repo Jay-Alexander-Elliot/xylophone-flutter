@@ -3,7 +3,7 @@
 
 ## Full Disclosure
 This code was adapted from another repo, but it was far too outdated for me to waste time adapting it.
-I ended up only using the idea and images from the previous course, everything else is mine.
+I ended up only using the idea and media assets from the previous course, everything else is mine.
 I'm most likely going to keep on adding changes as an exercise in learning.
 
 ## Our Goal
